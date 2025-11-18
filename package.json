@@ -86,7 +86,7 @@
     "concurrently": "^9.1.2",
     "dotenv": "^16.4.7",
     "fs-extra": "^11.1.1",
-    "glob": "^10.3.3",
+    "glob": "^11.1.0",
     "husky": "^9.1.7",
     "js-yaml": "^4.1.0",
     "lint-staged": "^15.4.3",
